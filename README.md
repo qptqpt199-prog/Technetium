@@ -175,6 +175,6 @@ Mọi đóng góp đều được hoan nghênh, đặc biệt là:
 
 ## Giấy phép
 
-Thông tin giấy phép sẽ được bổ sung.
+Dự án sử dụng giấy phép PolyForm Noncommercial License 1.0.0
 
 [Về đầu mục lục](#mục-lục)
