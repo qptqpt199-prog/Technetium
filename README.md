@@ -32,6 +32,7 @@ Cho phép chọn nhiều file cùng lúc và đổi tên theo quy tắc chung, t
 - Hoạt động trên nhiều định dạng file bất kỳ, không giới hạn loại file.
 
 [Về đầu mục lục](#mục-lục)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/47d6ffd4-9b0c-46b3-b182-216356b9f753" />
 
 ---
 
@@ -45,6 +46,7 @@ Mọi thao tác đổi tên hàng loạt đều được ghi lại, tránh tình
 - Tự động bỏ qua trong lúc hoàn tác nếu file đã bị xóa, di chuyển hoặc đang bị khóa bởi chương trình khác, không làm gián đoạn toàn bộ quá trình.
 
 [Về đầu mục lục](#mục-lục)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f41f4ef4-2b01-4def-9ed2-4682a8bb1fc4" />
 
 ---
 
@@ -57,6 +59,7 @@ Theo dõi tình trạng sử dụng tài nguyên máy tính theo thời gian th�
 - Cập nhật liên tục, không cần làm mới thủ công.
 
 [Về đầu mục lục](#mục-lục)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5ea155f5-eb65-4379-a43d-9afc50b4f656" />
 
 ---
 
@@ -81,6 +84,7 @@ Các nhóm dữ liệu được hỗ trợ:
 Người dùng xem trước dung lượng từng nhóm trước khi quyết định xóa, có thể chọn xóa riêng từng nhóm hoặc nhiều nhóm cùng lúc.
 
 [Về đầu mục lục](#mục-lục)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8a4b0473-20d4-43fe-bf6a-17cfb9c2ccc7" />
 
 ---
 
@@ -96,6 +100,7 @@ Thiết lập lịch để Technetium tự động quét và dọn dẹp định
 - Nếu tắt tính năng này, ứng dụng hoạt động và đóng như một chương trình thông thường.
 
 [Về đầu mục lục](#mục-lục)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/15a2909d-89d3-4018-9e89-1151ad3d3ed5" />
 
 ---
 
@@ -111,6 +116,7 @@ Chuyển đổi hàng loạt file ảnh trong một thư mục sang định dạ
 - Tùy chọn xóa file ảnh gốc ngay sau khi chuyển đổi thành công, dành cho trường hợp muốn thay thế hẳn định dạng cũ.
 
 [Về đầu mục lục](#mục-lục)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f8f7b478-53aa-428e-9581-cb94c3d053bb" />
 
 ---
 
@@ -123,6 +129,7 @@ Giao diện hỗ trợ nhiều ngôn ngữ, chuyển đổi ngay lập tức kh�
 - Rất hoan nghênh đóng góp bản dịch đầy đủ hơn cho các ngôn ngữ này từ cộng đồng (xem phần Đóng góp bên dưới).
 
 [Về đầu mục lục](#mục-lục)
+<img width="221" height="297" alt="image" src="https://github.com/user-attachments/assets/32efb812-cdbc-47ea-bf91-0e9c017d46cb" />
 
 ---
 
