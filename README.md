@@ -183,7 +183,7 @@ Dự án sử dụng giấy phép PolyForm Noncommercial License 1.0.0
 
 Technetium là dự án miễn phí, phát triển trong thời gian rảnh. Nếu bạn thấy ứng dụng hữu ích, có thể ủng hộ tác giả qua mã QR bên dưới (hỗ trợ ZaloPay, MoMo, ViettelPay, và chuyển khoản từ các ngân hàng Việt Nam).
 
-<img src="You can only receive money from Vietnamese banks.png" width="280" alt="Mã QR ủng hộ Technetium">
+<img width="6250" height="6250" alt="You can only receive money from Vietnamese banks" src="https://github.com/user-attachments/assets/0f9f2d97-7f1c-48d8-8cca-2ad197d54cbf" />
 
 Lưu ý: mã QR này chỉ nhận được tiền từ ví điện tử và ngân hàng tại Việt Nam. Hiện tại chưa hỗ trợ phương thức donate quốc tế (ví dụ PayPal, Buy Me a Coffee).
 
